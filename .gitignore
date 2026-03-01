@@ -1,0 +1,15 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+faiss_index*
+
+# Node
+node_modules/
+
+# Frontend venv (extra safety)
+campus-chatbot/frontend/venv/
